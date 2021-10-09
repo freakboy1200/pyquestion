@@ -10,13 +10,13 @@ import operator
 
 
 
-ini_list = [{'day':'Sunday', 'key':''},
-            {'day':'Monday', 'key':''},
-            {'day':'Tuesday', 'key':''},
-            {'day':'Wednesday', 'key':''},
-            {'day':'Thursday', 'key':''},
-            {'day':'Friday', 'key':''},
-            {'day':'Saturady', 'key':''}]
+ini_list = [{'day':'Sunday', 'key':'1'},
+            {'day':'Monday', 'key':'2'},
+            {'day':'Tuesday', 'key':'3'},
+            {'day':'Wednesday', 'key':'4'},
+            {'day':'Thursday', 'key':'5'},
+            {'day':'Friday', 'key':'6'},
+            {'day':'Saturady', 'key':'7'}]
             
                   
 # printing initial list
